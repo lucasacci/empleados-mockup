@@ -1,0 +1,8 @@
+body{
+    background: rgb(232,232,233);
+background: linear-gradient(3deg, rgba(232,232,233,1) 0%, rgba(94,0,255,1) 100%);
+}
+
+#root{
+    min-height: 100vh;
+}
